@@ -1,5 +1,7 @@
 # vrinda-store-excel-analysis
 Retail sales data analysis using Excel (Pivot Tables, Charts, Dashboard)
+![vrinda_excel_dashboard](https://github.com/user-attachments/assets/78d04403-3372-4f2d-8dd2-f5edfec13180)
+
 
 # Vrinda Store Data Analysis (Excel Project)
 This project analyzes Vrinda Store's retail sales data using Microsoft Excel.
